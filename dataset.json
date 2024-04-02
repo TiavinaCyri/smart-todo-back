@@ -1,0 +1,566 @@
+[
+    {
+        "task": "Faire la lessive",
+        "priority": 2
+    },
+    {
+        "task": "Faire les courses",
+        "priority": 3
+    },
+    {
+        "task": "Répondre aux e-mails",
+        "priority": 1
+    },
+    {
+        "task": "Préparer le dîner",
+        "priority": 2
+    },
+    {
+        "task": "Appeler le service client",
+        "priority": 1
+    },
+    {
+        "task": "Aller chez le médecin",
+        "priority": 3
+    },
+    {
+        "task": "Faire de l'exercice",
+        "priority": 2
+    },
+    {
+        "task": "Réviser pour l'examen",
+        "priority": 3
+    },
+    {
+        "task": "Nettoyer la maison",
+        "priority": 2
+    },
+    {
+        "task": "Rédiger le rapport",
+        "priority": 3
+    },
+    {
+        "task": "Lire un livre",
+        "priority": 1
+    },
+    {
+        "task": "Organiser une réunion",
+        "priority": 2
+    },
+    {
+        "task": "Faire du jardinage",
+        "priority": 2
+    },
+    {
+        "task": "Regarder un film",
+        "priority": 1
+    },
+    {
+        "task": "Acheter des cadeaux",
+        "priority": 3
+    },
+    {
+        "task": "Planifier les vacances",
+        "priority": 2
+    },
+    {
+        "task": "Faire une sieste",
+        "priority": 1
+    },
+    {
+        "task": "Apprendre une nouvelle compétence",
+        "priority": 3
+    },
+    {
+        "task": "Ranger le garage",
+        "priority": 2
+    },
+    {
+        "task": "Faire une promenade",
+        "priority": 1
+    },
+    {
+        "task": "Préparer le petit-déjeuner",
+        "priority": 2
+    },
+    {
+        "task": "Faire le ménage",
+        "priority": 2
+    },
+    {
+        "task": "Aider un ami",
+        "priority": 1
+    },
+    {
+        "task": "Assembler des meubles",
+        "priority": 3
+    },
+    {
+        "task": "Écouter de la musique",
+        "priority": 1
+    },
+    {
+        "task": "Faire des achats en ligne",
+        "priority": 3
+    },
+    {
+        "task": "Faire une pause café",
+        "priority": 1
+    },
+    {
+        "task": "Trouver un nouvel emploi",
+        "priority": 3
+    },
+    {
+        "task": "Faire une randonnée",
+        "priority": 2
+    },
+    {
+        "task": "Planter des fleurs",
+        "priority": 2
+    },
+    {
+        "task": "Faire du yoga",
+        "priority": 1
+    },
+    {
+        "task": "Acheter un nouvel ordinateur",
+        "priority": 3
+    },
+    {
+        "task": "Cuisiner un nouveau plat",
+        "priority": 2
+    },
+    {
+        "task": "Écrire dans un journal",
+        "priority": 1
+    },
+    {
+        "task": "Apprendre une langue étrangère",
+        "priority": 3
+    },
+    {
+        "task": "Prendre des photos",
+        "priority": 2
+    },
+    {
+        "task": "Organiser un anniversaire",
+        "priority": 3
+    },
+    {
+        "task": "Se détendre dans un bain",
+        "priority": 1
+    },
+    {
+        "task": "Faire du bénévolat",
+        "priority": 2
+    },
+    {
+        "task": "Voyager dans un nouveau pays",
+        "priority": 3
+    },
+    {
+        "task": "Faire du camping",
+        "priority": 2
+    },
+    {
+        "task": "Assister à un concert",
+        "priority": 1
+    },
+    {
+        "task": "Rendre visite à la famille",
+        "priority": 2
+    },
+    {
+        "task": "Faire des économies",
+        "priority": 3
+    },
+    {
+        "task": "Regarder le coucher de soleil",
+        "priority": 1
+    },
+    {
+        "task": "Lire les nouvelles",
+        "priority": 2
+    },
+    {
+        "task": "Étudier pour les examens",
+        "priority": 3
+    },
+    {
+        "task": "Jouer à des jeux vidéo",
+        "priority": 2
+    },
+    {
+        "task": "Explorer une nouvelle ville",
+        "priority": 3
+    },
+    {
+        "task": "Aller au cinéma",
+        "priority": 1
+    },
+    {
+        "task": "Pratiquer un sport",
+        "priority": 2
+    },
+    {
+        "task": "Faire du bricolage",
+        "priority": 3
+    },
+    {
+        "task": "Écrire une histoire",
+        "priority": 2
+    },
+    {
+        "task": "Participer à un événement",
+        "priority": 1
+    },
+    {
+        "task": "Résoudre des énigmes",
+        "priority": 3
+    },
+    {
+        "task": "Nettoyer le jardin",
+        "priority": 2
+    },
+    {
+        "task": "Fêter un anniversaire",
+        "priority": 1
+    },
+    {
+        "task": "Acheter des vêtements",
+        "priority": 3
+    },
+    {
+        "task": "Travailler sur un projet créatif",
+        "priority": 2
+    },
+    {
+        "task": "Assister à une conférence",
+        "priority": 3
+    },
+    {
+        "task": "Pratiquer un instrument de musique",
+        "priority": 2
+    },
+    {
+        "task": "Explorer la nature",
+        "priority": 1
+    },
+    {
+        "task": "Visiter un musée",
+        "priority": 3
+    },
+    {
+        "task": "Faire du patin à roulettes",
+        "priority": 2
+    },
+    {
+        "task": "Préparer une fête",
+        "priority": 1
+    },
+    {
+        "task": "Faire des courses de Noël",
+        "priority": 3
+    },
+    {
+        "task": "Se reposer au parc",
+        "priority": 2
+    },
+    {
+        "task": "Faire un barbecue",
+        "priority": 1
+    },
+    {
+        "task": "Peindre un tableau",
+        "priority": 3
+    },
+    {
+        "task": "Organiser une journée au spa",
+        "priority": 2
+    },
+    {
+        "task": "Faire une séance de méditation",
+        "priority": 1
+    },
+    {
+        "task": "Acheter un cadeau pour un ami",
+        "priority": 3
+    },
+    {
+        "task": "Ranger le bureau",
+        "priority": 2
+    },
+    {
+        "task": "Apprendre à cuisiner une nouvelle recette",
+        "priority": 1
+    },
+    {
+        "task": "Faire du ski",
+        "priority": 3
+    },
+    {
+        "task": "Se détendre sur la plage",
+        "priority": 2
+    },
+    {
+        "task": "Regarder un spectacle comique",
+        "priority": 1
+    },
+    {
+        "task": "Faire un tour en montgolfière",
+        "priority": 3
+    },
+    {
+        "task": "Écrire des lettres",
+        "priority": 2
+    },
+    {
+        "task": "Faire du vélo",
+        "priority": 1
+    },
+    {
+        "task": "Acheter des billets pour un événement",
+        "priority": 3
+    },
+    {
+        "task": "Explorer un marché aux puces",
+        "priority": 2
+    },
+    {
+        "task": "Jouer avec un animal de compagnie",
+        "priority": 1
+    },
+    {
+        "task": "Faire du kayak",
+        "priority": 3
+    },
+    {
+        "task": "Faire du jardinage urbain",
+        "priority": 2
+    },
+    {
+        "task": "Visiter un parc d'attractions",
+        "priority": 1
+    },
+    {
+        "task": "Faire du karaoké",
+        "priority": 3
+    },
+    {
+        "task": "Se promener dans un jardin botanique",
+        "priority": 2
+    },
+    {
+        "task": "Pratiquer le dessin",
+        "priority": 1
+    },
+    {
+        "task": "Aller à un festival",
+        "priority": 3
+    },
+    {
+        "task": "Faire une croisière",
+        "priority": 2
+    },
+    {
+        "task": "Se promener dans un quartier historique",
+        "priority": 1
+    },
+    {
+        "task": "Participer à une compétition sportive",
+        "priority": 3
+    },
+    {
+        "task": "Assister à un spectacle de danse",
+        "priority": 2
+    },
+    {
+        "task": "Faire de l'escalade",
+        "priority": 1
+    },
+    {
+        "task": "Regarder les étoiles",
+        "priority": 3
+    },
+    {
+        "task": "Faire une promenade en bateau",
+        "priority": 2
+    },
+    {
+        "task": "Faire du surf",
+        "priority": 1
+    },
+    {
+        "task": "Assister à une pièce de théâtre",
+        "priority": 3
+    },
+    {
+        "task": "Aller à un club de lecture",
+        "priority": 2
+    },
+    {
+        "task": "Faire du saut en parachute",
+        "priority": 1
+    },
+    {
+        "task": "Faire une balade à cheval",
+        "priority": 3
+    },
+    {
+        "task": "Participer à un cours de cuisine",
+        "priority": 2
+    },
+    {
+        "task": "Faire un road trip",
+        "priority": 1
+    },
+    {
+        "task": "Assister à un atelier d'art",
+        "priority": 3
+    },
+    {
+        "task": "Faire du canoë",
+        "priority": 2
+    },
+    {
+        "task": "Faire du camping sauvage",
+        "priority": 1
+    },
+    {
+        "task": "Assister à un spectacle de cirque",
+        "priority": 3
+    },
+    {
+        "task": "Visiter un vignoble",
+        "priority": 2
+    },
+    {
+        "task": "Faire une sortie en montagne",
+        "priority": 1
+    },
+    {
+        "task": "Participer à un cours de yoga en plein air",
+        "priority": 3
+    },
+    {
+        "task": "Faire du parapente",
+        "priority": 2
+    },
+    {
+        "task": "Faire une excursion en jet-ski",
+        "priority": 1
+    },
+    {
+        "task": "Participer à un atelier de poterie",
+        "priority": 3
+    },
+    {
+        "task": "Faire une balade en hélicoptère",
+        "priority": 2
+    },
+    {
+        "task": "Faire une visite guidée en Segway",
+        "priority": 1
+    },
+    {
+        "task": "Assister à un atelier de fabrication de chocolat",
+        "priority": 3
+    },
+    {
+        "task": "Participer à un safari photo",
+        "priority": 2
+    },
+    {
+        "task": "Faire du snowboard",
+        "priority": 1
+    },
+    {
+        "task": "Participer à une excursion de plongée sous-marine",
+        "priority": 3
+    },
+    {
+        "task": "Faire une balade en montgolfière au lever du soleil",
+        "priority": 2
+    },
+    {
+        "task": "Assister à un concert en plein air",
+        "priority": 1
+    },
+    {
+        "task": "Participer à une retraite de yoga",
+        "priority": 3
+    },
+    {
+        "task": "Faire une excursion en motoneige",
+        "priority": 2
+    },
+    {
+        "task": "Assister à un festival de musique",
+        "priority": 1
+    },
+    {
+        "task": "Faire une croisière sur un voilier",
+        "priority": 3
+    },
+    {
+        "task": "Participer à un festival de gastronomie",
+        "priority": 2
+    },
+    {
+        "task": "Faire une escapade romantique",
+        "priority": 1
+    },
+    {
+        "task": "Assister à une conférence sur le développement personnel",
+        "priority": 3
+    },
+    {
+        "task": "Faire une randonnée dans une forêt tropicale",
+        "priority": 2
+    },
+    {
+        "task": "Participer à une soirée de dégustation de vins",
+        "priority": 1
+    },
+    {
+        "task": "Faire une virée shopping dans une grande ville",
+        "priority": 3
+    },
+    {
+        "task": "Assister à un spectacle de feux d'artifice",
+        "priority": 2
+    },
+    {
+        "task": "Faire une excursion en kayak de mer",
+        "priority": 1
+    },
+    {
+        "task": "Participer à une séance de méditation en groupe",
+        "priority": 3
+    },
+    {
+        "task": "Faire une visite de château",
+        "priority": 2
+    },
+    {
+        "task": "Assister à un cours de cuisine moléculaire",
+        "priority": 1
+    },
+    {
+        "task": "Faire une excursion en montgolfière au coucher du soleil",
+        "priority": 3
+    },
+    {
+        "task": "Participer à un atelier de fabrication de bijoux",
+        "priority": 2
+    },
+    {
+        "task": "Faire une dégustation de fromages",
+        "priority": 1
+    },
+    {
+        "task": "Assister à un festival de cinéma",
+        "priority": 3
+    }
+]
